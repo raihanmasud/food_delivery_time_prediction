@@ -1,0 +1,10 @@
+#following libraries are needed
+# pandas >> python -m pip install pandas 
+# sklean >> python -m pip install sklearn
+
+#instruction to run doordash.py file which loads part2 doordash_part2.py 
+#>>python doordash.py data_to_predict.json
+#this file will produce prediction.csv
+
+Note: For part1, data file is assumed to be present in the current directory. 
+File path could be changed in the load() method or use relative/actual directory path as appropriate
